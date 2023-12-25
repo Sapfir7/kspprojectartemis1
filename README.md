@@ -18,7 +18,8 @@
 1. [Проект](https://docs.google.com/document/d/1-yv5yPtfazDtHe6zIYF7u_mEH3LCxKSBjGJzVKbRDCI/edit "Тыкни ка")
 2. [Видео](https://www.youtube.com/watch?v=1Qn5P07nu88)
 ------------
-![image](https://github.com/Sapfir7/kspprojectartemis1/assets/144842713/10978dec-699e-4073-b33a-856952f00540)
+![image](https://github.com/Sapfir7/kspprojectartemis1/assets/144842713/953c948d-354d-484d-8ad4-22130ede51b8)
+
 
 
 ## Проект Стартрек
