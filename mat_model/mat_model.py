@@ -134,12 +134,11 @@ def flight(log_file):
             )
             / 2
         ) / current_mass
-        vr = vr + 0.8 * ar * dt
-        vt = vt + 0.8 * at * dt
+        vr = vr +  ar * dt
+        vt = vt + at * dt
         v = (vt**2 + vr**2) ** 0.5
-        h = h + 0.8 * vr * dt
+        h = h +  vr * dt
         t += dt
-        # v = vr / cosn(h)
         beta = math.acos(cosn(h)) / (math.pi / 2) * 90
 
         log_file.write(
